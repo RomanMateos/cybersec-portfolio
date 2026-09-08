@@ -12,7 +12,7 @@ controlado (Kali Linux + VirtualBox + NAT Network), siguiendo la metodología **
 
 Documentar el proceso de aprendizaje en Ethical Hacking / Blue Team, como evidencia
 práctica de cara a una futura especialización en investigación de cibercrimen y
-forense digital (PDI - Policía de Investigaciones de Chile).
+forense digital .
 
 ## Estructura
 
